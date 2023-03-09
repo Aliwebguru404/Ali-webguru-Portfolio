@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/Portfolio-for-React-Js/static/css/main.17203737.css",
-    "main.js": "/Portfolio-for-React-Js/static/js/main.20eb437a.js",
-    "static/media/Screenshot1.png": "/Portfolio-for-React-Js/static/media/Screenshot1.6f9a9fd43e81c923b38b.png",
-    "static/media/WhatsApp.png": "/Portfolio-for-React-Js/static/media/WhatsApp.b1c75ea241e598125731.png",
-    "static/media/Scr.png": "/Portfolio-for-React-Js/static/media/Scr.369274aed38d15fc6273.png",
-    "static/media/Screenshot2.png": "/Portfolio-for-React-Js/static/media/Screenshot2.0819d3385544ac2d109c.png",
-    "static/media/Vector2.png": "/Portfolio-for-React-Js/static/media/Vector2.098bbdcac2d5ac1004bc.png",
-    "static/media/Shoaib.pdf": "/Portfolio-for-React-Js/static/media/Shoaib.05796a103547ef855203.pdf",
-    "static/media/strong.png": "/Portfolio-for-React-Js/static/media/strong.d58742ebf4e137c1e278.png",
-    "static/media/screen.png": "/Portfolio-for-React-Js/static/media/screen.575fe081b4d186f01526.png",
-    "static/media/respon.png": "/Portfolio-for-React-Js/static/media/respon.766a3e5709a015cfcd18.png",
-    "static/media/rocket.png": "/Portfolio-for-React-Js/static/media/rocket.a57a66184119d6e6bac1.png",
-    "static/media/vscode.png": "/Portfolio-for-React-Js/static/media/vscode.c6228181bf38315b4ea3.png",
-    "static/media/javascript.png": "/Portfolio-for-React-Js/static/media/javascript.c82f51737aaa6831750c.png",
-    "static/media/humble.png": "/Portfolio-for-React-Js/static/media/humble.c8b32b53675e68978981.png",
-    "static/media/heartemoji.png": "/Portfolio-for-React-Js/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
-    "static/media/wave.png": "/Portfolio-for-React-Js/static/media/wave.fdfef4069ad90f610990.png",
-    "static/media/glasses.png": "/Portfolio-for-React-Js/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
-    "index.html": "/Portfolio-for-React-Js/index.html",
-    "main.17203737.css.map": "/Portfolio-for-React-Js/static/css/main.17203737.css.map",
-    "main.20eb437a.js.map": "/Portfolio-for-React-Js/static/js/main.20eb437a.js.map"
+    "main.css": "/Ali-webguru-Portfolio/static/css/main.17203737.css",
+    "main.js": "/Ali-webguru-Portfolio/static/js/main.e53b11c6.js",
+    "static/media/Screenshot1.png": "/Ali-webguru-Portfolio/static/media/Screenshot1.6f9a9fd43e81c923b38b.png",
+    "static/media/WhatsApp.png": "/Ali-webguru-Portfolio/static/media/WhatsApp.b1c75ea241e598125731.png",
+    "static/media/Scr.png": "/Ali-webguru-Portfolio/static/media/Scr.369274aed38d15fc6273.png",
+    "static/media/Screenshot2.png": "/Ali-webguru-Portfolio/static/media/Screenshot2.0819d3385544ac2d109c.png",
+    "static/media/Vector2.png": "/Ali-webguru-Portfolio/static/media/Vector2.098bbdcac2d5ac1004bc.png",
+    "static/media/Shoaib.pdf": "/Ali-webguru-Portfolio/static/media/Shoaib.05796a103547ef855203.pdf",
+    "static/media/strong.png": "/Ali-webguru-Portfolio/static/media/strong.d58742ebf4e137c1e278.png",
+    "static/media/screen.png": "/Ali-webguru-Portfolio/static/media/screen.575fe081b4d186f01526.png",
+    "static/media/respon.png": "/Ali-webguru-Portfolio/static/media/respon.766a3e5709a015cfcd18.png",
+    "static/media/rocket.png": "/Ali-webguru-Portfolio/static/media/rocket.a57a66184119d6e6bac1.png",
+    "static/media/vscode.png": "/Ali-webguru-Portfolio/static/media/vscode.c6228181bf38315b4ea3.png",
+    "static/media/javascript.png": "/Ali-webguru-Portfolio/static/media/javascript.c82f51737aaa6831750c.png",
+    "static/media/humble.png": "/Ali-webguru-Portfolio/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/Ali-webguru-Portfolio/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/Ali-webguru-Portfolio/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/glasses.png": "/Ali-webguru-Portfolio/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/Ali-webguru-Portfolio/index.html",
+    "main.17203737.css.map": "/Ali-webguru-Portfolio/static/css/main.17203737.css.map",
+    "main.e53b11c6.js.map": "/Ali-webguru-Portfolio/static/js/main.e53b11c6.js.map"
   },
   "entrypoints": [
     "static/css/main.17203737.css",
-    "static/js/main.20eb437a.js"
+    "static/js/main.e53b11c6.js"
   ]
 }
