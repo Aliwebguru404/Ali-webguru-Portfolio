@@ -26,7 +26,7 @@ const Chang = () => {
           <Card
             emoji={heartemoji}
             heading={"Designing"}
-            detail={"CSS, SASS, Word Press"}
+            detail={"CSS, SASS, Word Press..."}
           />
         </motion.div>
         {/* second card */}
