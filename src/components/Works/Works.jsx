@@ -1,6 +1,6 @@
 import React, { useContext } from "react";
 import "./Works.css";
-import vscode from "../../img/vscode.png";
+import word from "../../img/word.png";
 import download from "../../img/download.jpg"
 import download1 from "../../img/download1.png"
 import download2 from "../../img/download2.jpg"
@@ -31,6 +31,19 @@ const Works = () => {
             have also done jobs in some places with my work.Due to which  
             <br />
             i have good exprience in my work.
+            <br />
+            <br />
+            <hr />
+            <div className="skillss">
+            <h4>Skills</h4>
+            1. HTML5  2. CSS3  3. JavaScript  4. TypeScript <br />
+            5. React JS 6. Next JS 7. Bootstrap 8. MUI <br />
+            9. WordPress 10. Shopify 11. Woocommerce 12. Elementor <br />
+            13. Astra  14. Crisp  15. Element Pack  16. Contact Form 7 <br />
+            17. React Native  18. Android Studio  19. VS Code
+            </div>
+            <br />
+            <hr />
             <br />
             <br />
             I always try to work according to the customer's thinking.
@@ -67,7 +80,7 @@ const Works = () => {
             <img src={download2} alt="" />
           </div>
           <div className="w-secCircle">
-            <img src={vscode} alt="" />
+            <img src={word} alt="" />
           </div>
         </motion.div>
         {/* background Circles */}

@@ -2,8 +2,9 @@ import React, { useContext } from "react";
 import "./Portfolio.css";
 import { Swiper, SwiperSlide } from "swiper/react"
 import "swiper/css";
-import Screenshot1 from "../../img/Screenshot1.png";
-import Screenshot2 from "../../img/Screenshot2.png";
+import food from "../../img/food.png";
+import fiber from "../../img/fiber.png";
+import visa from "../../img/visa.png";
 import WhatsApp from "../../img/WhatsApp.png";
 import screen from "../../img/screen.png"
 import Scr from "../../img/Scr.png";
@@ -25,16 +26,19 @@ const Portfolio = () => {
         className="portfolio-slider"
       >
         <SwiperSlide>
-          <img src={Screenshot1} alt="" />
+          <img src={food} alt="" />
         </SwiperSlide>
         <SwiperSlide>
-          <img src={Screenshot2} alt="" />
+          <img src={fiber} alt="" />
         </SwiperSlide>
         <SwiperSlide>
           <img src={screen} alt="" />
         </SwiperSlide>
         <SwiperSlide>
           <img src={Scr} alt="" />
+        </SwiperSlide>
+        <SwiperSlide>
+          <img src={visa} alt="" />
         </SwiperSlide>
         <SwiperSlide>
           <img src={WhatsApp} alt="" />

@@ -5,6 +5,7 @@ import Insta from "@iconscout/react-unicons/icons/uil-instagram";
 import Facebook from "@iconscout/react-unicons/icons/uil-facebook";
 import Gitub from "@iconscout/react-unicons/icons/uil-github";
 import Email from "@iconscout/react-unicons/icons/uil-fast-mail";
+import Phone from "@iconscout/react-unicons/icons/uil-phone-volume";
 
 const Footer = () => {
   return (
@@ -20,11 +21,12 @@ const Footer = () => {
         <div className="box">
           <h3>Contact Info</h3>
           <p> <Email color="white" size={"1.5rem"} />aliwebguru404@gmail.com</p>
+          <p> <Phone color="white" size={"1.5rem"} /> +92 304 6413094</p>
       </div>
         <div className="f-icons">
-        <a href="https://www.instagram.com/shoaib.ali.5245/" target="blank"><Insta color="white" size={"3rem"} /></a>
-        <a href="https://www.facebook.com/shahzaibali.ali.5245" target="blank"> <Facebook color="white" size={"3rem"} /></a>
-        <a href="https://github.com/Aliwebguru404" target="blank"><Gitub color="white" size={"3rem"} /></a>
+        <a href="https://www.instagram.com/aliwebguru404/" target="blank"><Insta color="white" size={"3rem"} /></a>
+        <a href="https://www.facebook.com/Aliwebguru404" target="blank"> <Facebook color="white" size={"3rem"} /></a>
+        <a href="https://github.com/Aliwebguru404/Ali-webguru-Portfolio" target="blank"><Gitub color="white" size={"3rem"} /></a>
         </div>
         </div>
       </div>

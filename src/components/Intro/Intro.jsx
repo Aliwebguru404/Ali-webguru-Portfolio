@@ -26,6 +26,7 @@ const Intro = () => {
           <span>Shoaib Ali</span>
           <span>
             <h3>&#9674; Front-End Developer and Web designing</h3>
+            <h3>&#9674; WordPress and Shopify Developer</h3>
             <h3>&#9674; Android App Developer</h3>
           </span>
         </div>
@@ -34,8 +35,8 @@ const Intro = () => {
         </Link>
         {/* social icons */}
         <div className="i-icons">
-          <a href="https://github.com/Aliwebguru404" target="blank"><img src={Github} alt="" /></a>
-         <a href="https://www.linkedin.com/in/shoaib-ali-907133267/" target="blank"><img src={LinkedIn} alt="" /></a>
+          <a href="https://github.com/Aliwebguru404/Ali-webguru-Portfolio" target="blank"><img src={Github} alt="" /></a>
+         <a href="https://www.linkedin.com/in/m-ali-158284245/" target="blank"><img src={LinkedIn} alt="" /></a>
          <a href="https://www.instagram.com/aliwebguru404/" target="blank"><img src={Instagram} alt="" /></a>
         </div>
       </div>

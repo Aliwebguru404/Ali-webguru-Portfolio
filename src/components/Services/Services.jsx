@@ -1,7 +1,7 @@
 import React, { useContext } from "react";
 import "./Services.css";
 import { themeContext } from "../../Context";
-import Shoaib from './Shoaib.pdf';
+import Shoaib from './Shoaib CV.pdf';
 import rocket from '../../img/rocket.png';
 import strong from '../../img/strong.png';
 import respon from '../../img/respon.png'
